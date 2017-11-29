@@ -7,3 +7,5 @@ Projects underway
 2. Object recognition ( real life and image ) and conversion into speech using Google Vision API. (And offline - using finetuned Inception model (CNN) )
 
 3. Training and capturing vehicle registration number ( trained on datasets using CNN )
+
+4. Barcode scanning -  particulary ISO/IEC 16022 Data Matrix information capturing
